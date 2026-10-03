@@ -1,0 +1,2 @@
+# generated from bspline_opt/env-hooks/nlopt.sh.in
+ament_prepend_unique_value LD_LIBRARY_PATH "@NLOPT_LIB_DIR_HOOK@"
